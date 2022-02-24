@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1498750330 source:c:\clases\ml\mauricio molina\generala\juego.cpp
+	"Juego.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1498751879 c:\clases\ml\mauricio molina\generala\juego.h
+
+1498750372 source:c:\clases\ml\mauricio molina\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Juego.h"
+
+1499223840 source:c:\users\fernandez\desktop\laboratorio 1\nueva carpeta\juego.cpp
+	"Juego.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1499223840 c:\users\fernandez\desktop\laboratorio 1\nueva carpeta\juego.h
+
+1499223840 source:c:\users\fernandez\desktop\laboratorio 1\nueva carpeta\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Juego.h"
+
+1499643885 source:c:\users\fernandez\desktop\lab1 2017 tp\nueva carpeta\juego.cpp
+	"Juego.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1499642796 c:\users\fernandez\desktop\lab1 2017 tp\nueva carpeta\juego.h
+
+1499643938 source:c:\users\fernandez\desktop\lab1 2017 tp\nueva carpeta\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Juego.h"
+
+1499646842 source:c:\users\fernandez\desktop\lab1 2017 tp\tplab2017\juego.cpp
+	"Juego.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1499642796 c:\users\fernandez\desktop\lab1 2017 tp\tplab2017\juego.h
+
+1499646767 source:c:\users\fernandez\desktop\lab1 2017 tp\tplab2017\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Juego.h"
+
+1499647208 source:c:\users\54113\desktop\tplab2017\juego.cpp
+	"Juego.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1499642796 c:\users\54113\desktop\tplab2017\juego.h
+
+1499647029 source:c:\users\54113\desktop\tplab2017\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Juego.h"
+
